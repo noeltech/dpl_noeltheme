@@ -1,0 +1,16 @@
+name: noel template
+type: theme
+description: "This is a  csutom template"
+base theme: classy
+core: 8.x
+
+libraries:
+  - noel/global-styling
+
+regions:
+  header: 'Header'
+  nav: 'Navigation'
+  main_content: 'Main Content'
+  left_sidebar: 'left Sidebar'
+  right_sidebar: 'Right Sidebar'
+  footer: 'Footer'
